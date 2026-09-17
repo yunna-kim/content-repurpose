@@ -71,7 +71,7 @@
 | `ecc/…` | `ecc-(everything-claude-code)/skills/…` | [affaan-m/ECC](https://github.com/affaan-m/ECC) · MIT |
 | `gooseworks…/…` | `gooseworks-ai-competitor-ad-intelligence/skills/…` | [openclaudia/openclaudia-skills](https://github.com/openclaudia/openclaudia-skills) · MIT |
 | `copywriting-coreyhaines/…` | `copywriting-coreyhaines/skills/…` | [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills) · MIT |
-| `landing-page-generator/…` | `landing-page-generator/marketing/…` | borghei/Claude-Skills · MIT |
+| `landing-page-generator/…` | `landing-page-generator/marketing/…` | [borghei/Claude-Skills](https://github.com/borghei/Claude-Skills) · MIT + Commons Clause (판매 금지) |
 | `hooks` · `cardnews` · `blog-writing` · `threads-writing` · `topic-mining` | 같은 이름 폴더 | 노슈니(오수인) · 스폰지클럽 3기 제공 |
 | `spongeclub3-carousel` | — | 스폰지클럽 3기 제공 |
 | 그 밖 | 같은 이름 폴더 | 각 폴더의 `SOURCE.md` |

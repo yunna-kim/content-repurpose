@@ -118,21 +118,12 @@ references/
 
 ## 출처
 
-스폰지클럽 3기 스킬러스 공유 저장소([selfishclub/spongeclub3-skillus](https://github.com/selfishclub/spongeclub3-skillus))의
-스킬 50개를 읽고 **규칙과 구조만** 가져왔습니다. 문장은 옮기지 않았고, 원 저작자와 라이선스는 각 원본을 따릅니다.
-스킬마다 **무엇을 가져와 어디에 넣었는지**는 `SOURCES.md` 에 있습니다.
+스폰지클럽 3기 스킬러스 공유 저장소([selfishclub/spongeclub3-skillus](https://github.com/selfishclub/spongeclub3-skillus))의 스킬들을 참고했습니다.
+글을 원자로 쪼개 채널마다 나눠 맡기는 방식은 `content-engine`([affaan-m/ECC](https://github.com/affaan-m/ECC))과
+`content-repurposing`([openclaudia/openclaudia-skills](https://github.com/openclaudia/openclaudia-skills))에서,
+채널별 규칙 일부는 노슈니(오수인)의 스킬(`hooks` · `cardnews` · `blog-writing` · `threads-writing`)에서 배웠습니다.
 
-| 가져온 스킬 | 원 저작자 · 원본 | 라이선스 |
-|---|---|---|
-| `content-engine` · `crosspost` | [affaan-m/ECC](https://github.com/affaan-m/ECC) (everything-claude-code) | MIT |
-| `content-repurposing` · `newsletter` | [openclaudia/openclaudia-skills](https://github.com/openclaudia/openclaudia-skills) | MIT |
-| `emails` · `analytics` · `attribution` | [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills) | MIT |
-| `campaign-analytics` · `marketing-ops` | [borghei/Claude-Skills](https://github.com/borghei/Claude-Skills) | MIT + Commons Clause (판매 금지) |
-| `hooks` · `cardnews` · `blog-writing` · `threads-writing` · `topic-mining` | 노슈니(오수인) · 스폰지클럽 3기 | 스폰지클럽 3기 제공 |
-| `spongeclub3-carousel` | 스폰지클럽 3기 | 스폰지클럽 3기 제공 |
-| `claude-shorts` · `threads-contents` · `threads-contents2` · `eli5` · `크리틱디렉터` · `customer-research` · `coupang-ad-analysis` · `grill-me` · `service-blueprint` · `skillers-share` · `caveman` · `spec-guard` · `marp-deck` · `last30days` | 공유 저장소의 같은 이름 폴더 — 원 저작자는 각 폴더의 `SOURCE.md` | 각 원본을 따름 |
-
-**v2 에서 더한 것**(유튜브 · 폴더 뉴스레터 · 고르는 칸)은 다른 스킬에서 가져오지 않았습니다.
-유튜브 규격은 YouTube 고객센터와 웹 자료를 보고 적었고, 목록은 `SOURCES.md` 「웹 출처」에 있습니다.
+아이디어와 구조만 참고했고 문장은 새로 썼습니다. 참고한 스킬 전체와 각각 어디에 반영했는지는 `SOURCES.md` 에 있습니다.
+v2 의 유튜브 규격은 YouTube 고객센터와 웹 자료를 보고 적었습니다.
 
 **2026-09 기준.** 플랫폼 규칙은 바뀌므로 **숫자가 안 맞으면 그 자리에서 다시 확인**합니다.

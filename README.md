@@ -100,7 +100,7 @@ references/
   newsletter.md               뉴스레터 규격 (한국 법·메일 환경 반영)
   reach.md                    길이 · 첫 10분 · 네이버 SEO · 인스타 검색 · GEO·AEO
   publish-check.md            링크 미리보기 · 꼬리표 · 발행 순서 · 48시간
-  carousel.md                 캐러셀 스킬이 없을 때만
+  instagram-caption.md        인스타 캡션 · 훅 · 댓글→DM
   account.example.md          내 값 틀
   tone.example.md             카톡 · 오카방 · 인스타 캡션 · 유튜브 · 뉴스레터 톤 틀
 ```
